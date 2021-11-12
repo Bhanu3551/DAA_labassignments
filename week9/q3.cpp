@@ -1,4 +1,3 @@
-//min computation path  Dhruv punetha ML
 //use priority queue if want lesser time
 #include<bits/stdc++.h>
 using namespace std;
